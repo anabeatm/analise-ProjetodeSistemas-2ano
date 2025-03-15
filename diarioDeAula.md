@@ -1,10 +1,10 @@
-# Diário de Aula
+# 📔 Diário de Aula
 ### Por Ana Beatriz Tavares Malaquias - 2º ano Engenharia de Software - IFPR
 
 Olá, esse é meu diário de aula sobre a matéria de Análise e Projeto de Sistemas (APS) do professor Hélio Toshio Kamakawa.
 
 
-## 11/03
+## 🎋 11/03
 
 Foi explicado em aula o que significa essas três palavras: **estruturação, verificação e validação**.
 
