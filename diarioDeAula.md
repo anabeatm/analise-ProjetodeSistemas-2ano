@@ -26,7 +26,7 @@ Eu e minha equipe elaboramos, então, as respostas:
 
 Nessa aula fui: ***Júnior.***
 
-## 18/03
+## 🎶 18/03
 ### Atividade em equipe
 ciclos de vida da SDLC: (https://aws.amazon.com/pt/what-is/sdlc/)
 
