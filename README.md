@@ -25,6 +25,6 @@ Aqui estão alguns dos tópicos que podem ser encontrados neste repositório:
 
 ## 🚀 Como Usar
 
-1. Clone este repositório:
+Clone este repositório:
    ```bash
    git clone [https://github.com/anabeatm/Analise-ProjetodeSistemas-2ano.git]
