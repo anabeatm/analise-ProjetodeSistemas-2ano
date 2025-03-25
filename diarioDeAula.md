@@ -71,8 +71,13 @@ levantamento de requisitos: se errar aqui, já era na outras fases.
 
 -> stakeholder: tanto a equipe quanto os clientes;
 
--> levantamento de dados: pesquisa de mercado (entender o domínio), entrevistas (perguntas e resposta guiada), etnografia (vivencia a empresa), observação (limitado; depende, segredos industrial, por isso difere da observação
-da etnografia), questionário (estático; objetivo), workshops (qnd não tem ideia doq **precisa** ser feito, tentando buscar um modelo, em conjunto busca uma solução), joint aplication design (jad) (noção clara do que precisa ser feito e tecnicamente aplica), prototipação (cria um protótipo, conceitual ou prático; para validar), análise documental (analisa os documentos da empresa , entende o funcionamento burocrático da empresa; todo documento da empresa que te ajuda o que precisa ser feito);
+-> levantamento de dados: pesquisa de mercado (entender o domínio),
+entrevistas (perguntas e resposta guiada), etnografia (vivencia a empresa), observação (limitado;
+depende, segredos industrial, por isso difere da observação
+da etnografia), questionário (estático; objetivo), workshops (qnd não tem ideia doq **precisa** ser feito,
+ tentando buscar um modelo, em conjunto busca uma solução), joint aplication design (jad) (noção clara do que precisa ser feito e tecnicamente aplica),
+prototipação (cria um protótipo, conceitual ou prático; para validar), análise documental (analisa os documentos da empresa,
+entende o funcionamento burocrático da empresa; todo documento da empresa que te ajuda o que precisa ser feito);
 
 --> erros comuns: permissões, erro na comunicação, viés tendenciosos, interpretação, usar mais do que uma técnica. 
 ```
