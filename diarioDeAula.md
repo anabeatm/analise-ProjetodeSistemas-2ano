@@ -28,31 +28,29 @@ Nessa aula fui: ***Júnior.***
 
 ## 🎶 18/03
 ### Atividade em equipe
-ciclos de vida da SDLC: (https://aws.amazon.com/pt/what-is/sdlc/)
+Houve uma atividade em equipe, onde era necessário responder a algumas questões que o professor passou em sala de aula. São elas:
+ 1.   Buscar pelo menos 3 diferentes exemplos de ciclos de vida de desenvolvimento de software (SDLC);
+ 2.   Fazer a análise dos SDLCs encontradas, verificar as fases e classifique em Estruturação, Execuação e Finalização;
+ 3.   Citar metodologias ágeis.
+Minha equipe fez as seguintes respostas:
 
-	1. planejamento (estruturação): Escopo. Os analistas fazem a análise de custo-benefício para o projeto, fazem metas, criam estimativas.
-	O escopo define as expectativas e as metas que vão ajudar no planejamento. 
-	2. projeto: a equipe ou equipes vão analisar os requisitos que foram criados no planejamento e identificaram as melhores formas para criar o software, podendo ser ferramentas de desenvolvimentos e fazer escolhas mais técnicas/tecnológicas
-	3. implementação (execução): a equipe irá codificar o projeto, identificam as tarefas saídas do planejamento e colocará em prática, diariamente tentando alcançar o objetivo final
-	4. teste: o projeto passará por vários testes ao mesmo tempo, já que o mesmo está dividindo em partes, pois assim auxiliará e deixará a manutenção mais barata. Tentando sempre verificar se o projeto está atendendo o pedido do cliente.
-	5. implantação (finalização): diferente do teste, o projeto já está em seu último estágio, onde há uma cópia do original, deixando o mesmo para o usuário. com essa cópia poderá ser feito correções sem o usuário sofrer com essas alterações, o objetivo da implantação é mover a cópia mais recentes para o ambiente de produção
-	6. manutenção: aqui o projeto já foi 100% lançado, nessa fase é feitos correções de bugs que passaram batido ou melhorias de ferramentas para atender cada vez mais o usuário, como melhoria na segurança e performance.
+> 1. Planejamento (estruturação): Escopo. Os analistas fazem a análise de custo-benefício para o projeto, fazem metas, criam estimativas. O escopo define as expectativas e as metas que vão ajudar no planejamento. 
+> 2. Projeto: a equipe ou equipes vão analisar os requisitos que foram criados no planejamento e identificaram as melhores formas para criar o software, podendo ser ferramentas de desenvolvimentos e fazer escolhas mais técnicas/tecnológicas
+> 3. Implementação (execução): a equipe irá codificar o projeto, identificam as tarefas saídas do planejamento e colocará em prática, diariamente tentando alcançar o objetivo final
+>  4. Teste: o projeto passará por vários testes ao mesmo tempo, já que o mesmo está dividindo em partes, pois assim auxiliará e deixará a manutenção mais barata. Tentando sempre verificar se o projeto está atendendo o pedido do cliente.
+> 5. Implantação (finalização): diferente do teste, o projeto já está em seu último estágio, onde há uma cópia do original, deixando o mesmo para o usuário. com essa cópia poderá ser feito correções sem o usuário sofrer com essas alterações, o objetivo da implantação é mover a cópia mais recentes para o ambiente de produção
+> 6. Manutenção: aqui o projeto já foi 100% lançado, nessa fase é feitos correções de bugs que passaram batido ou melhorias de ferramentas para atender cada vez mais o usuário, como melhoria na segurança e performance.
 
-modelos de SDLC:
-	
-	1. Cascata: sequencial; depende de cada resultado da fase anterior, o design vai fluindo de uma fase para a outro. alto custo de manutenção, pois não deixa abertura para testes durante o desenvolvimento. erro de comunicação.
-	2. Incremental: diminuiu a escala de custo do cascata.
-	3. espiral: combina os pequenos ciclos repetidos do modelo iterativo com o fluxo sequencial linear do modelo cascata, a fim de priorizar a análise de riscos.
-	4. Iterativo: o desenvolvimento é a partir de tarefas divididas, ao passar do tempo do projeto, vai sendo aprimorado até que o software esteja pronto para produção, uma nova versão é desenvolvida ao final de cada iteração.
-	5. Ágil: iterativo e incremental. com resultados significativos. organiza o SDLC em vários ciclos. a equipe itera todas as fases, fazendo alterações pequenas (diariamente) onde a cada implementação será feito um teste, avaliando sempre os planos e resultados para que possam responder ao pedido o mais rápido possível:
-		valores principais: Cliente, Equipe, Processo, Software (pronto) -> Manifesto Ágil
+Ciclos de vida da SDLC: (https://aws.amazon.com/pt/what-is/sdlc/)
 
---> levantamento de dados = entender oq o cliente precisa
---> analise de requisitos = identificar tecnicamente oq é necessário
---> modelagem do software = exp: UML
---> desenvolver
---> testar
---> implantação
---> manutenção
+Sobre os modelos SDLC:
 
+> 1. Cascata: sequencial: depende de cada resultado da fase anterior, o  design vai fluindo de uma fase para a outro. alto custo de manutenção, pois não deixa abertura para testes durante o desenvolvimento. Erro de comunicação.
+> 2. Incremental: diminuiu a escala de custo do cascata.
+> 3. Espiral: combina os pequenos ciclos repetidos do modelo iterativo com o fluxo sequencial linear do modelo cascata, a fim de priorizar a análise de riscos.
+> 4. Iterativo: o desenvolvimento é a partir de tarefas divididas, ao passar do tempo do projeto, vai sendo aprimorado até que o software esteja pronto para produção, uma nova versão é desenvolvida ao final de cada iteração.
+> 5. Ágil: iterativo e incremental. Com resultados significativos. organiza o SDLC em vários ciclos. a equipe itera todas as fases, fazendo alterações pequenas (diariamente) onde a cada implementação será feito um teste, avaliando sempre os planos e resultados para que possam responder ao pedido o mais rápido possível: 	valores principais: Cliente, Equipe, Processo, Software (pronto) -> Manifesto Ágil
 
+Algumas anotações:
+
+    --> levantamento de dados = entender oq o cliente precisa --> analise de requisitos = identificar tecnicamente oq é necessário --> modelagem do software = exp: UML --> desenvolver --> testar --> implantação --> manutenção
