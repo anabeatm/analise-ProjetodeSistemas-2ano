@@ -66,7 +66,9 @@ Nessa aula fui: ***Estagiário***.
 ```
 levantamento de requisitos: se errar aqui, já era na outras fases.
 
---> conhecer certo (entender o cliente: 1. comunicação entre todos; 2. interpretação. tem que estar alinhados nas ideias; 3. falta de conhecimento ou o analista não entender direito), analisar certo (1. técnico; 2. experiência)
+--> conhecer certo (entender o cliente: 1. comunicação entre todos;
+2. interpretação. tem que estar alinhados nas ideias;
+3. falta de conhecimento ou o analista não entender direito), analisar certo (1. técnico; 2. experiência)
  e descrever certo (descrição e interpretação) -> padrões e técnicas;
 
 -> stakeholder: tanto a equipe quanto os clientes;
