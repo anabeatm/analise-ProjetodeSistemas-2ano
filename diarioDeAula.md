@@ -53,4 +53,8 @@ Sobre os modelos SDLC:
 
 Algumas anotações:
 
-    --> levantamento de dados = entender oq o cliente precisa --> analise de requisitos = identificar tecnicamente oq é necessário --> modelagem do software = exp: UML --> desenvolver --> testar --> implantação --> manutenção
+    --> levantamento de dados = entender oq o cliente precisa 
+    --> analise de requisitos = identificar tecnicamente oq é necessário 
+    --> modelagem do software = exp: UML 
+    --> desenvolver --> testar 
+    --> implantação --> manutenção
