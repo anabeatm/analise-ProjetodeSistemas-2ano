@@ -59,4 +59,4 @@ Algumas anotações:
     --> desenvolver --> testar 
     --> implantação --> manutenção
     
-Nessa aula fui: ***Júnior***.
+Nessa aula fui: ***Estagiário***.
