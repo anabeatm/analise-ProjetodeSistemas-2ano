@@ -58,3 +58,5 @@ Algumas anotações:
     --> modelagem do software = exp: UML 
     --> desenvolver --> testar 
     --> implantação --> manutenção
+    
+Nessa aula fui: Dev.
