@@ -83,3 +83,23 @@ entende o funcionamento burocrático da empresa; todo documento da empresa que t
 
 --> erros comuns: permissões, erro na comunicação, viés tendenciosos, interpretação, usar mais do que uma técnica. 
 ```
+
+## Fontes:
+### Atividade em Equipe 002
+https://www.produttivo.com.br/blog/controle-de-materiais/#:~:text=O%20controle%20de%20materiais%20%C3%A9%20um%20m%C3%A9todo%20de%20organiza%C3%A7%C3%A3o%20que,em%20boas%20condi%C3%A7%C3%B5es%20de%20uso.
+
+https://www.nomus.com.br/blog-industrial/controle-de-materiais/
+
+--> Método de organização que tem como objetivo principal assegurar um estoque equilibrado;
+--> É importante se certificar que a empresa está atendendo essas normas da Anvisa e que seus colaboradores entendem a importância em respeitá-las;
+--> A falta de controle pode trazer diversas consequências para uma empresa, como a falha em mensurar se o consumo dos materiais está de acordo com as necessidades;
+
+1. como é feito o controle de estoque? 
+2. como é a análise de necessidades e demandas de reposição?
+3. existe um local de fácil organização? como há segurança de que está tudo em ordem?
+4. como é mapeado seu controle? e por quê?
+5. o controle é atualizado todo dia? de quanto em quanto tempo ele é atualizado?
+6. como é feito a entrada e saída de materiais?
+7. existe alguma lei que precisa ser seguida? se sim, como garante que todos os produtos estão dentro dessas leis?
+8. em caso de algum problema no estoque, como é resolvida a situação? como é a comunicação com os fabricantes?
+9. há relatórios fotográficos? 
