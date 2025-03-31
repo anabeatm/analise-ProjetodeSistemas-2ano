@@ -93,9 +93,9 @@ entende o funcionamento burocrático da empresa; todo documento da empresa que t
 
 [https://www.nomus.com.br/blog-industrial/controle-de-materiais/]
 
-**--> Método de organização que tem como objetivo principal assegurar um estoque equilibrado; 
---> É importante se certificar que a empresa está atendendo essas normas da Anvisa e que seus colaboradores entendem a importância em respeitá-las; 
---> A falta de controle pode trazer diversas consequências para uma empresa, como a falha em mensurar se o consumo dos materiais está de acordo com as necessidades;**
+> --> Método de organização que tem como objetivo principal assegurar um estoque equilibrado; 
+> --> É importante se certificar que a empresa está atendendo essas normas da Anvisa e que seus colaboradores entendem a importância em respeitá-las; 
+> --> A falta de controle pode trazer diversas consequências para uma empresa, como a falha em mensurar se o consumo dos materiais está de acordo com as necessidades;
 
 #### Perguntas
 ```
