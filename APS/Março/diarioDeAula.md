@@ -55,12 +55,13 @@ Espiral: combina os pequenos ciclos repetidos do modelo iterativo com o fluxo se
 **Ágil**: iterativo e incremental. Com resultados significativos. organiza o SDLC em vários ciclos. a equipe itera todas as fases, fazendo alterações pequenas (diariamente) onde a cada implementação será feito um teste, avaliando sempre os planos e resultados para que possam responder ao pedido o mais rápido possível: valores principais: Cliente, Equipe, Processo, Software (pronto) -> Manifesto Ágil
 
 Algumas anotações:
-
+```
 --> levantamento de dados = entender oq o cliente precisa 
 --> analise de requisitos = identificar tecnicamente oq é necessário 
 --> modelagem do software = exp: UML 
 --> desenvolver --> testar 
 --> implantação --> manutenção
+```
 
 **Nessa aula fui: Estagiário.**
 
@@ -85,8 +86,9 @@ entende o funcionamento burocrático da empresa; todo documento da empresa que t
 
 --> **Erros comuns**: permissões, erro na comunicação, viés tendenciosos, interpretação, usar mais do que uma técnica.
 
-### Fontes:
-Atividade em Equipe 002
+
+###Atividade em Equipe 002
+#### Fontes:
 [https://www.produttivo.com.br/blog/controle-de-materiais/#:~:text=O%20controle%20de%20materiais%20%C3%A9%20um%20m%C3%A9todo%20de%20organiza%C3%A7%C3%A3o%20que,em%20boas%20condi%C3%A7%C3%B5es%20de%20uso.]
 
 [https://www.nomus.com.br/blog-industrial/controle-de-materiais/]
