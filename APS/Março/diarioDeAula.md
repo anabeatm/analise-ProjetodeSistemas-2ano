@@ -25,7 +25,7 @@ Recuperação de estudo, se trata de novo prazo para demonstrar maior rendimento
 
 ## 🎶 18/03
 
-**Atividade em equipe**
+### 👥 **Atividade em equipe 001**
 
 Houve uma atividade em equipe, onde era necessário responder a algumas questões que o professor passou em sala de aula. São elas:
 
@@ -87,7 +87,7 @@ entende o funcionamento burocrático da empresa; todo documento da empresa que t
 --> **Erros comuns**: permissões, erro na comunicação, viés tendenciosos, interpretação, usar mais do que uma técnica.
 
 
-###Atividade em Equipe 002
+### 👥 **Atividade em Equipe 002**
 #### Fontes:
 [https://www.produttivo.com.br/blog/controle-de-materiais/#:~:text=O%20controle%20de%20materiais%20%C3%A9%20um%20m%C3%A9todo%20de%20organiza%C3%A7%C3%A3o%20que,em%20boas%20condi%C3%A7%C3%B5es%20de%20uso.]
 
