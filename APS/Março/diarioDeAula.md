@@ -26,6 +26,7 @@ Recuperação de estudo, se trata de novo prazo para demonstrar maior rendimento
 ## 🎶 18/03
 
 **Atividade em equipe**
+
 Houve uma atividade em equipe, onde era necessário responder a algumas questões que o professor passou em sala de aula. São elas:
 
 > Buscar pelo menos 3 diferentes exemplos de ciclos de vida de desenvolvimento de software (SDLC);
