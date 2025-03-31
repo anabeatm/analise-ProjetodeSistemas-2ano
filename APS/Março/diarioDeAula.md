@@ -46,10 +46,14 @@ Ciclos de vida da SDLC: (https://aws.amazon.com/pt/what-is/sdlc/)
 **Sobre os modelos SDLC:**
 
 **Cascata**: sequencial: única entrega. depende de cada resultado da fase anterior, o design vai fluindo de uma fase para a outro. alto custo de manutenção, pois não deixa abertura para testes durante o desenvolvimento. Erro de comunicação.
+
 **Incremental**: entregas rápidas / em pedaços. diminuiu a escala de custo do cascata.
 Espiral: combina os pequenos ciclos repetidos do modelo iterativo com o fluxo sequencial linear do modelo cascata, a fim de priorizar a análise de riscos. cliente sempre participa de todas as etapas. o mesmo não sabe o quer.
+
 **Iterativo**: o desenvolvimento é a partir de tarefas divididas, ao passar do tempo do projeto, vai sendo aprimorado até que o software esteja pronto para produção, uma nova versão é desenvolvida ao final de cada iteração.
+
 **Ágil**: iterativo e incremental. Com resultados significativos. organiza o SDLC em vários ciclos. a equipe itera todas as fases, fazendo alterações pequenas (diariamente) onde a cada implementação será feito um teste, avaliando sempre os planos e resultados para que possam responder ao pedido o mais rápido possível: valores principais: Cliente, Equipe, Processo, Software (pronto) -> Manifesto Ágil
+
 Algumas anotações:
 
 --> levantamento de dados = entender oq o cliente precisa 
