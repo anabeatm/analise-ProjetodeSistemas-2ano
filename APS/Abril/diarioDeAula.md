@@ -109,3 +109,62 @@ Análse de Requisitos: o que vale é o conhecimento; mais técnico.
 - Utilizamos os dados da aula passada (levantamento de requisitos), para nossa tabela de requisitos, seguindo o padrão utilizado no mercado há algum tempo.
 - Nossa base de dados fora, desde o começo, a entrevista com o Edmar, onde fizemos perguntas que pudessem nos auxiliar.
 - Focando em rastreabilidade, focamos em ter coerência e coesão, sempre seguindo o padrão.
+
+# 22/04
+
+## Diagrama de Classes - UML
+-> UML: estrutura e comportamento.
+ * Estrutural: diagrama de classes; técnico; valioso pro programador
+ * Comportamental: mais próximo do usuário; validar
+   -> documentação precisa ser enchuto.
+
+```
+@startuml
+skinparam actorPosition top 
+left to right direction 
+
+actor "Cliente" as Cliente
+actor "Administrador" as Administrador
+actor "Vendedor" as Funcionário
+
+
+
+rectangle "Sistema de Reserva de Quadra" {
+  usecase "Consultar calendário" as C01
+  usecase "Buscar reserva" as C02
+  usecase "Realizar reserva" as C03
+  usecase "Verificar disponibilidade" as C04
+  usecase "Cancelar reserva" as C05
+  usecase "Gerenciar todas reservas" as C06
+  usecase "Manutenção da quadra" as C07 
+
+  usecase "Consulta de vendas e reservas" as C08
+  usecase "Notificar reserva" as C09
+
+}
+
+C07 .> C04 : <<include>>
+C05 <. C02 : <<extend>>
+
+C04 <. C02 : <<extend>>
+C05 .> C03 : <<include>>
+
+
+Cliente --> C01
+Cliente --> C02
+Cliente --> C03
+Cliente --> C04
+Cliente --> C05
+Cliente --> C09
+
+Administrador --> C06
+Administrador --> C07
+
+Funcionário --|> Cliente
+Administrador --|> Cliente
+
+Funcionário --> C08
+
+@enduml
+
+```
