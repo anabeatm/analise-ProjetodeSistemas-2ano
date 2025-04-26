@@ -2,72 +2,58 @@
 
 ## 🍙 01/04
 
-### Entrevista
+### 🎤 Entrevista
 
-> Cooperar com a formação dos alunos; Organização é pra racionalizar as tarefas; Formulário de controle; Empréstimo de materias que possibilita o fator de formação de qualidade; Orienta os alunos por meio de fichário e diálogos para que os alunos usem os materiais de forma correta; Regulamento;
-> Fichário contem o material que ta sendo fornecido: livro, caderno, cartolina, indentificação de quem tá emprestando o material (aluno, professor), se for professor: coloca a turma, se é o aluno: série, aluno, horário de retirada e devolução; recolhido, faz baixa e confere se está tudo no normal.
-> Sociabilidade: como o aluno se sente no Instistuto, como formas de exclusão; fazendo o caminhamento para um profissional que cuide desse aluno;
-> Sinalizando e indicando que às vezes o professor não percebe;
-> Auxilia diretamente o aluno num processo de formação de qualidade.
+> 📝 Cooperar com a formação dos alunos;  
+> 🗂️ Organização é pra racionalizar as tarefas;  
+> 📑 Formulário de controle;  
+> 📚 Empréstimo de materias que possibilita o fator de formação de qualidade;  
+> 💬 Orienta os alunos por meio de fichário e diálogos;  
+> 📜 Regulamento;
 
-#### Perguntas:
+#### ❓ Perguntas:
 
-1. A saida e entrada é diretamente pelo aluno e professor?
-   Sim.
-2. Existe um controle virtual?
-   Sim, às vezes.
-3. Não tem id de identificação, por quê?
-   Material de consumo próprio, sua usuabilidade é curto.
-4. Tipos de materiais:
+1. 🔄 A saida e entrada é diretamente pelo aluno e professor?  
+   ✅ Sim.
+2. 💻 Existe um controle virtual?  
+   ✅ Sim, às vezes.
+3. 🆔 Não tem id de identificação, por quê?  
+   📦 Material de consumo próprio, sua usuabilidade é curto.
+4. 📦 Tipos de materiais:  
    A maioria.
-5. FLuxo de entrada e saída de alunos. A demanda de mais materias vai depender da demanda, se tudo estiver no normal.
-6. 3 fichários: 1. Achados e Perdidos; 2. Talheres, materiais esportivos, etc...;
-7. Justificativa para solicitar um material, entrar num processo com o coordenador, sebrae etc...;
-8. Maior dificuldade:
-   Perda de materiais. Quando é de uso coletivo, é restrito.
-9. Tempo de empréstimo:
-    Por exemplo, chave de armário, entrega no mesmo dia.
-10. Normativa de perda (achados e perdidos): 3 meses.
-11. Dificuldade de recursos;
-12. Material danificado: vai passar por um processo.
-
-#### Perguntas da equipe:
-
-1. Aluno fica retido de pegar outro material quando advertido?
-2. Como é feito a entrada de material novo?
-3. Como está sendo o agendamento de sala no novo sistema?
-   Há planilha e no suap, precisa ter mais informações para ter uma resposta. O agendamento está sempre vistoriado.
-6. Como funciona a classificação dos blocos de materiais?
-   Acahados e perdidos; Controle de Chaves; Outros materiais.
+5. 📈 FLuxo de entrada e saída de alunos...
+6. 🗃️ 3 fichários:  
+   1. 🏷️ Achados e Perdidos;  
+   2. 🥄 Talheres, materiais esportivos...
 
 ## 🎟️ 08/04
 
--> Sempre validar (se entendeu direito) e verificar (se está fazendo corretamente).
+### 📌 Organização Prática de Requisitos
 
-### Organização Prática de Requisitos com Foco em Rastreabilidade
+#### 🎯 Objetivo
 
-#### Objetivo
+> Organizar e refinar requisitos garantindo rastreabilidade
 
-> Organizar e refinar requisitos de forma prática e incremental, garantindo rastreabilidade, clareza e focos.
 
-Necessário decompor as fases e incrementar conforme essas fases.
+### 🔍 Fase 01 - Rastrear
+* 🔖 Código identificador de requisitos:
 
-### Fase 01 - Rastrear
-
-* Código identificador de requisitos;
-* Conexão entre requisitos principais e específicos.
-  
--> LRP000 - levantamento de requisitos principal.
--> LRE000 - levantamento de requsitos específico.
+  - `LRP000` - requisito principal
+  - `LRE000` - requisito específico
 
 > Fase 01: Como deixar rastreável?
 > Identificação e decomposição.
 
-* Fase 02 e 03: Identificar de que forma os requisitos se diferem e especificar conforme as necessidades.
-* Fase 04: Identificar os atores: classificar os usuários.
-* Fase 05: Funcionalidades necessárias após os requisitos forem definidos.
-* Fase 06: Deixar aberto a entrada de novas funcionalidades fora do escopo inicial, pois podem ter prioridades diferentes.
-* Fase 07: Validar e verificar.
+### Fase 02 e 03: 
+ - Identificar de que forma os requisitos se diferem e especificar conforme as necessidades.
+### Fase 04: 
+ - Identificar os atores: classificar os usuários.
+### Fase 05: 
+- Funcionalidades necessárias após os requisitos forem definidos.
+### Fase 06: 
+- Deixar aberto a entrada de novas funcionalidades fora do escopo inicial, pois podem ter prioridades diferentes.
+### Fase 07: 
+- Validar e verificar.
 
 ### Estudo de Caso em equipe
 
@@ -110,10 +96,10 @@ Análse de Requisitos: o que vale é o conhecimento; mais técnico.
 - Nossa base de dados fora, desde o começo, a entrevista com o Edmar, onde fizemos perguntas que pudessem nos auxiliar.
 - Focando em rastreabilidade, focamos em ter coerência e coesão, sempre seguindo o padrão.
 
-# 22/04
+# ☕ 22/04
 
-## Diagrama de Classes - UML
--> UML: estrutura e comportamento.
+### 📊 Diagrama de Classes - UML
+#### UML: estrutura e comportamento.
  * Estrutural: diagrama de classes; técnico; valioso pro programador
  * Comportamental: mais próximo do usuário; validar
    -> documentação precisa ser enchuto.
@@ -167,4 +153,66 @@ Funcionário --> C08
 
 @enduml
 
+```
+
+### 🧨 Tabela de Rastreamente e Requisitos Func., Não Func e Reg. Négocio: 
+[https://docs.google.com/spreadsheets/d/1USDxUKdwEfHJNFCXCWACJYU2qvuVpbquJO1noDsW5ug/edit?gid=0#gid=0]
+#### 🚨 Código de Caso de Uso da tabela ^ :
+```
+@startuml
+skinparam actorPosition top 
+skinparam actorStyle awesome
+left to right direction
+
+
+actor "Administrador" as adm
+actor "Funcionário" as fnc
+actor "Usuário" as usu
+
+rectangle "LRP001 - Controle de empréstimos de materiais" {
+    package "Acesso" {
+        usecase "Leitura de credenciais para acesso" as RF001
+        usecase "Permissão de acesso chefe" as RF005
+    }
+
+    package "Gestão" {
+        usecase "Classificação de estado de conservação" as RF004
+        usecase "Restrição de entrada de novos materiais" as RF002
+        usecase "Classificação de Materiais" as RF003
+    }
+    package "Empréstimo" {
+        usecase "Controle de horas" as RF006
+        usecase "Solicitação de empréstimo" as RF007
+        usecase "Controle de saída de materiais" as RF008
+        usecase "Controle de lista de empréstimo" as RF009
+        usecase "Registro de status de empréstimo" as RF010
+    }
+}
+ 
+
+adm --|> fnc
+adm --|> usu
+
+adm --> RF004
+adm --> RF005
+adm --> RF006
+
+fnc --> RF002
+fnc --> RF003
+fnc --> RF008
+fnc --> RF009
+fnc --> RF010
+
+usu --> RF001
+usu --> RF007
+
+RF008 .> RF007 : <<include>>  
+RF001 .> RF005 : <<include>>  
+
+RF010 .> RF009 : <<extend>>   
+RF007 .> RF006 : <<extend>>   
+RF003 .> RF002 : <<extend>>
+
+
+@enduml
 ```
