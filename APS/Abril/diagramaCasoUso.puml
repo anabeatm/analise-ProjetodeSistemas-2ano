@@ -1,0 +1,58 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor Administrador as A
+actor Usuario as U
+
+package "Sistema de Gestão de Itens do Campus" {
+  
+  package "Gestão de Empréstimos" {
+    usecase "Gerenciar Empréstimos" as GE
+    usecase "Cadastrar Empréstimo" as CE3
+    usecase "Relacionar Material" as RE1
+    usecase "Relacionar Usuário" as RE2
+  }
+
+  package "Gestão de Materiais" {
+    usecase "Cadastrar Material" as CE2
+  }
+
+  package "Gestão de Usuários" {
+    usecase "Cadastrar Usuário" as CE4
+  }
+
+  package "Gestão Administrativa" {
+    usecase "Cadastrar Administrador" as CE1
+  }
+
+  package "Achados e Perdidos" {
+    usecase "Cadastrar Objeto Achado" as CO1
+  }
+
+  package "Controle de Chaves" {
+    usecase "Cadastrar Sala" as CS1
+    usecase "Cadastrar Chave" as CS2
+    usecase "Relacionar Chave à Sala" as RE3
+  }
+
+
+  A --> GE
+  A --> CE2
+  A --> CE4
+  A --> CE1
+  A --> CO1
+  A --> CS1
+  A --> CS2
+  A --> RE3
+
+  U --> CE3 : Solicita
+
+
+  GE --> CE3 : <<include>>
+  CE3 --> RE2 : <<include>>
+  CE3 --> RE1 : <<include>>
+  CE3 --> CE4 : <<extend>>
+}
+
+@enduml

@@ -1,0 +1,56 @@
+@startuml
+skinparam actorPosition top 
+skinparam actorStyle awesome
+left to right direction
+
+
+actor "Administrador" as adm
+actor "Funcionário" as fnc
+actor "Usuário" as usu
+
+rectangle "LRP001 - Controle de empréstimos de materiais" {
+    package "Acesso" {
+        usecase "Leitura de credenciais para acesso" as RF001
+        usecase "Permissão de acesso chefe" as RF005
+    }
+
+    package "Gestão" {
+        usecase "Classificação de estado de conservação" as RF004
+        usecase "Restrição de entrada de novos materiais" as RF002
+        usecase "Classificação de Materiais" as RF003
+    }
+    package "Empréstimo" {
+        usecase "Controle de horas" as RF006
+        usecase "Solicitação de empréstimo" as RF007
+        usecase "Controle de saída de materiais" as RF008
+        usecase "Controle de lista de empréstimo" as RF009
+        usecase "Registro de status de empréstimo" as RF010
+    }
+}
+ 
+
+adm --|> fnc
+adm --|> usu
+
+adm --> RF004
+adm --> RF005
+adm --> RF006
+
+fnc --> RF002
+fnc --> RF003
+fnc --> RF008
+fnc --> RF009
+fnc --> RF010
+
+usu --> RF001
+usu --> RF007
+
+RF008 .> RF007 : <<include>>  
+RF001 .> RF005 : <<include>>  
+
+RF010 .> RF009 : <<extend>>   
+RF007 .> RF006 : <<extend>>   
+RF003 .> RF002 : <<extend>>
+
+
+@enduml

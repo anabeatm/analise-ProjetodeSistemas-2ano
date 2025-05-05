@@ -1,0 +1,60 @@
+@startuml
+
+skinparam classAttributeIconSize 0
+
+
+class Administrador {
+  - email: String
+  - senha: String
+  - nome: String
+}
+
+
+class Usuario {
+  - id: String
+  - nome: String
+  - email: String
+}
+
+
+class Material {
+  - numeroPatrimonio: String
+  - nome: String
+  - tipo: String
+  - local: String
+  - dataEntrada: Date
+}
+
+
+class Emprestimo {
+  - dataSaida: Date
+  - dataDevolucao: Date
+}
+
+
+Usuario "1" -- "0..*" Emprestimo : realiza
+Emprestimo "1" -- "1" Material : refere-se
+
+
+class ObjetoAchado {
+  - nome: String
+  - local: String
+  - data: Date
+}
+
+
+class Sala {
+  - bloco: String
+  - numeroSala: String
+}
+
+
+class Chave {
+  - bloco: String
+  - numeroSala: String
+}
+
+
+Chave "1" -- "1" Sala : pertence
+
+@enduml
